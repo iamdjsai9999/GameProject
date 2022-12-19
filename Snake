@@ -167,4 +167,4 @@ while True:
     # Refresh game screen
     pygame.display.update()
     # Refresh rate
-    fps_controller.tick(difficulty)
+    fps_controller.tick(difficulty)0
